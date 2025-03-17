@@ -1,1 +1,1 @@
-# Machine Learning Project  :Loan Recommendation System 
+# Machine Learning Project  :Loan Approval Prediction 
