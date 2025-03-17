@@ -9,9 +9,9 @@ Matplotlib
 Seaborn   
 # Procedures 
 Importing  
-Data Cleaning 
-Data Visualisation 
-Encoding 
+Data Cleaning  
+Data Visualisation  
+Encoding  
 Feature Scaling  
 Train Test Split  
 Model Building 
